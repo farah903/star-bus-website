@@ -94,7 +94,7 @@ nav a:hover {
             rgba(0, 0, 0, 0.45),
             rgba(0, 0, 0, 0.45)
         ),
-        url("starbus.jpg") center/cover no-repeat;
+        url("StarBus.jpg") center/cover no-repeat;
 
     display: flex;
 
